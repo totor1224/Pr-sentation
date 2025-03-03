@@ -23,6 +23,7 @@ L'interface devait respecter un cahier des charges strict, notamment en utilisan
 
 - **Mini-projet 2** : Projet afficheur météo
 Ce mini-projet consistait à récupérer des données météorologiques à l'aide de capteurs installés dans notre garage à vélos/motos. Nous avons développé des codes pour permettre aux capteurs de collecter les valeurs suivantes :
+
 Humidité : Mesurée par un capteur d'humidité.
 
 Précipitations : Mesurées par un pluviomètre.
@@ -31,15 +32,24 @@ Direction du Vent : Mesurée par une girouette.
 
 Vitesse du Vent : Mesurée par un capteur de vitesse du vent.
 
-Toutes ces informations étaient collectées par un microcontrôleur ESP32 connecté à notre réseau Wi-Fi privé. La borne Wi-Fi était reliée à notre base de données, où les données reçues étaient enregistrées dans les tables correspondantes. Les données météorologiques étaient ensuite affichées en temps réel sur un téléviseur.
+Toutes ces informations étaient collectées par un microcontrôleur ESP32 connecté à notre réseau Wi-Fi privé. La borne Wi-Fi était reliée à notre base de données (PHP My Admin), où les données reçues étaient enregistrées dans les tables correspondantes. Les données météorologiques étaient ensuite affichées en temps réel sur un téléviseur.
+
+- **Mini-projet 3** : Projet Video surveillance
+Ce mini-projet visait à créer un réseau privé personnel. Sur ce réseau, nous avons connecté une caméra et une base de données (PHPMyAdmin). La caméra, ayant déjà servi pour un autre projet, a été réinitialisée et j'ai ressoudé les câbles qui avaient été retirés.
+
+L'équipe en charge de la caméra a développé un programme permettant de capturer des images dès qu'un mouvement était détecté. Ces images étaient ensuite envoyées à la base de données et enregistrées dans les tables appropriées.
+
+Pour permettre la communication entre la caméra et la base de données, nous avons créé un réseau Wi-Fi privé en utilisant un Raspberry Pi 3B+ avec l'ISO Pi-Rogue. Pi-Rogue est un système d'exploitation qui transforme le Raspberry Pi en routeur Wi-Fi. Une fois configuré, il devient un routeur sur le réseau souhaité.
+
+J'ai défini un mot de passe privé, accessible uniquement par mon équipe et moi-même, afin de sécuriser l'accès au réseau. 
 
 #### Mes Projets :
 - **Projet 1** : [Nom du Projet] - [Brève description du projet et des technologies utilisées]
 
 #### Compétences :
-- **Logiciels** : Altium Designer, KiCad, SolidWorks, etc.
+- **Logiciels** : Kali-Linux, 
 - **Langages de Programmation** : C, Python, etc.
-- **Outils de Développement** : Oscilloscope, générateur de signaux, etc.
+- **Outils de Développement** : Oscilloscope, générateur de signaux, carte arduino, ESP32.
 
 #### Objectifs :
 - Approfondir mes connaissances en électronique et cybersécurité
