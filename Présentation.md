@@ -44,7 +44,13 @@ Pour permettre la communication entre la caméra et la base de données, nous av
 J'ai défini un mot de passe privé, accessible uniquement par mon équipe et moi-même, afin de sécuriser l'accès au réseau. 
 
 - **Mini-projet 4** : Projet Enceinte thermique 
-Ce mini projet a pour but de nous faire travailler avec un capteur de température et un chauffage dans une enceinte isolée. Pour commencer nous avons du prendre en main notre enceinte, nous l'avons modeliser en 3D pour avoir un appercu rapide sur les dimensions, notre enceinte etait en forme de cube. Pour la partie chauffage, j'ai du faire toute la partie éléctrique pour alimenter ce chauffage, le capteur et l'esp 32. J'ai récupré une alimentation, jai coupé et soudé des cables pour relier les composants (arduino, capteur de température, chauffage) à cette alimentation tout en vérifiant les conditions éléctriques pour pas tout courcicuiter. Lorsque que toute la partie éléctrique a bien été realiser nous nous somme mis a la partie communication et enregistrement des données.
+Ce mini-projet a pour but de nous faire travailler avec un capteur de température et un chauffage dans une enceinte isolée. Pour commencer, nous avons dû prendre en main notre enceinte. Nous l'avons modélisée en 3D pour avoir un aperçu rapide des dimensions. Notre enceinte était en forme de cube.
+
+Pour la partie chauffage, j'ai dû réaliser toute la partie électrique pour alimenter ce chauffage, le capteur et l'ESP32. J'ai récupéré une alimentation, j'ai coupé et soudé des câbles pour relier les composants (Arduino, capteur de température, chauffage) à cette alimentation, tout en vérifiant les conditions électriques pour ne pas tout court-circuiter.
+
+Lorsque toute la partie électrique a bien été réalisée, nous nous sommes mis à la partie communication et enregistrement des données. Nous avons mis en place une base de données qui enregistre les données de température envoyées par le capteur de température. Ces données sont envoyées sur une page web que nous avons également créée. Sur cette page web, nous avons mis le relevé avec un graphique de la température en fonction du temps. Nous avons implémenté un bouton d'arrêt pour stopper le relevé de température.
+
+Cette page web était aussi connectée à un réseau Wi-Fi, comme pour l'ESP32. Nous faisions des partages de connexion en 4G car la salle où nous travaillions ne comportait pas de réseau Wi-Fi privé. La page était enregistrée en local sur un ordinateur portable, aucun hébergement n'a été nécessaire.
 
 
 #### Mes Projets :
