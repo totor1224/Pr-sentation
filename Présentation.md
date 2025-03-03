@@ -53,8 +53,28 @@ Lorsque toute la partie électrique a bien été réalisée, nous nous sommes mi
 Cette page web était aussi connectée à un réseau Wi-Fi, comme pour l'ESP32. Nous faisions des partages de connexion en 4G car la salle où nous travaillions ne comportait pas de réseau Wi-Fi privé. La page était enregistrée en local sur un ordinateur portable, aucun hébergement n'a été nécessaire.
 
 
-#### Mes Projets :
-- **Projet 1** : [Nom du Projet] - [Brève description du projet et des technologies utilisées]
+#### Mes Projets : 
+- **Projet 1** : Projet Balise -
+Ce projet est le projet final de ma formation en BTS CIEL. Pour ce projet, nous avions un client qui organisait une course d'orientation. Il nous a fourni une carte avec tous les endroits où poser les balises. Le client a émis des besoins pour la conception des parcours de la course. Par exemple, il a indiqué l'endroit où se situait un des parcours (milieu naturel ou urbain). Les cartes doivent représenter le terrain sous forme de plan ou de paysage. Les balises que doivent trouver les coureurs doivent permettre une identification du coureur à son arrivée.
+
+L'organisateur de la course doit pouvoir :
+
+- Installer les balises et vérifier leur positionnement par rapport à la carte.
+- Suivre en temps réel la position des différentes équipes sur son écran (PC de supervision).
+- Informer en temps réel les coureurs des changements (informations transmises par les balises).
+- Sauvegarder les données d'une course.
+- L'expression du besoin et le nombre d'étudiants affectés à ce projet nous ont amenés à décomposer le système en deux sous-systèmes.
+
+Le premier sous-système comprendra les balises et le PC de l'organisation équipé du logiciel de supervision.
+
+Le deuxième sous-système comprendra le logiciel de création des scénarios avec leur sauvegarde dans une base de données, ainsi que le site internet permettant de suivre l'évolution de la course, la sauvegarde des données de la course, etc.
+
+La liaison entre les deux sous-systèmes se fera via les données échangées par le logiciel de supervision et la base de données (coordonnées des balises, scénarios, résultats, etc.).
+
+Le site internet et la base de données seront hébergés sur un serveur internet : OVH.
+
+Ma tache personnelle dans ce projet est la communication des balises GPS avec LoRaWAN, je me suis servis d'une passerelle qui est reliée au logiciel de supervision créé par un membre du groupe en usb 
+
 
 #### Compétences :
 - **Logiciels** : Kali-Linux, 
