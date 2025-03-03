@@ -73,7 +73,7 @@ La liaison entre les deux sous-systèmes se fera via les données échangées pa
 
 Le site internet et la base de données seront hébergés sur un serveur internet : OVH.
 
-Ma tache personnelle dans ce projet est la communication des balises GPS avec LoRaWAN, je me suis servis d'une passerelle qui est reliée au logiciel de supervision créé par un membre du groupe en usb 
+Ma tache personnelle dans ce projet est la communication des balises GPS avec LoRaWAN, je me suis servis d'une passerelle qui est reliée au logiciel de supervision créé par un membre du groupe en usb. Les données des balises qui ont été scannées par le RFID envoie les info du RFID, le groupe qui a scanné est reconnu et les données sont envoyé par le chemin est stockée.
 
 
 #### Compétences :
