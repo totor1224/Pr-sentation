@@ -43,6 +43,10 @@ Pour permettre la communication entre la caméra et la base de données, nous av
 
 J'ai défini un mot de passe privé, accessible uniquement par mon équipe et moi-même, afin de sécuriser l'accès au réseau. 
 
+- **Mini-projet 4** : Projet Enceinte thermique 
+Ce mini projet a pour but de nous faire travailler avec un capteur de température et un chauffage dans une enceinte isolée. Pour commencer nous avons du prendre en main notre enceinte, nous l'avons modeliser en 3D pour avoir un appercu rapide sur les dimensions, notre enceinte etait en forme de cube. Pour la partie chauffage, j'ai du faire toute la partie éléctrique pour alimenter ce chauffage, le capteur et l'esp 32. J'ai récupré une alimentation, jai coupé et soudé des cables pour relier les composants (arduino, capteur de température, chauffage) à cette alimentation tout en vérifiant les conditions éléctriques pour pas tout courcicuiter. Lorsque que toute la partie éléctrique a bien été realiser nous nous somme mis a la partie communication et enregistrement des données.
+
+
 #### Mes Projets :
 - **Projet 1** : [Nom du Projet] - [Brève description du projet et des technologies utilisées]
 
