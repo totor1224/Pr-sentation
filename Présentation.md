@@ -1,4 +1,4 @@
-# Présentation de Victor Merly 🌐
+# Présentation de Victor Merly 
 
 ## Bonjour ! 👋
 
