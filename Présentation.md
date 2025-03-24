@@ -77,7 +77,7 @@ Ma tache personnelle dans ce projet est la communication des balises GPS avec Lo
 
 
 #### Compétences :
-- **Logiciels** : Kali-Linux, 
+- **Logiciels** : Kali-Linux, Proxmox, VMware
 - **Langages de Programmation** : C, Python, etc.
 - **Outils de Développement** : Oscilloscope, générateur de signaux, carte arduino, ESP32.
 
