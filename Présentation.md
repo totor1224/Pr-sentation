@@ -83,7 +83,7 @@ Ma tache personnelle dans ce projet est la communication des balises GPS avec Lo
 
 #### Objectifs :
 - Approfondir mes connaissances en électronique et cybersécurité
-- Collaborer sur des projets open-source et contribuer à la communauté.
+- Perfectionnement de mes langues, apprentissage du russe en cours.
 - Développer des solutions innovantes et durables dans le domaine de l'électronique.
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion !
