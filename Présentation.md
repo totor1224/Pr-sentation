@@ -48,15 +48,15 @@ Ma tâche personnelle dans ce projet est la communication des balises GPS avec L
 
 ## Compétences :
 
-- **Logiciels** : Kali-Linux, Proxmox, VMware 💻
-- **Langages de Programmation** : C, Python, etc. 🐍
-- **Outils de Développement** : Oscilloscope, générateur de signaux, carte Arduino, ESP32 🛠️
+- **Logiciels** : Kali-Linux, Proxmox, VMware, Arduino 💻
+- **Langages de Programmation** : C++, HTML, Arduino. 🐍
+- **Outils** : Machines virtuelles, Raspberry, carte Arduino, ESP32 🛠️
 
 ## Objectifs :
 
 - Approfondir mes connaissances en électronique et cybersécurité 🔒.
-- Perfectionner mes compétences linguistiques, notamment en russe 🇷🇺.
-- Développer des solutions innovantes et durables dans le domaine de l'électronique ♻️.
+- Perfectionner mes compétences linguistiques, notamment en russe.
+- Pouvoir fournir de nouvelles offres pour ma micro entreprise.
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion !
 
