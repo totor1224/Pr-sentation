@@ -2,7 +2,7 @@
 
 ## Bonjour ! 👋
 
-Je m'appelle Victor Merly, étudiant passionné en BTS CIEL (Cybersécurité Informatique et Électrique). Mon parcours académique et mes projets sont axés sur la conception, l'industrialisation, la maintenance des systèmes électroniques, la cybersécurité et la conception de réseaux informatiques.
+Je m'appelle Victor Merly, étudiant en BTS CIEL (Cybersécurité Informatique et Électronique). Mon parcours académique et mes projets sont axés sur la conception, l'industrialisation, la maintenance des systèmes électroniques, la cybersécurité et la conception de réseaux informatiques.
 
 ## Ce que je fais :
 
